@@ -30,7 +30,7 @@ func ParseForAsArray(data, dname string) string[] {
 
 }
 
-func ParseFordata, dname string) string {
+func ParseFor(data, dname string) string {
 	
 	var words []string
 	
